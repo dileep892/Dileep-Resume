@@ -18,7 +18,7 @@ python3 -m http.server 8000
 # open http://localhost:8000
 ```
 
-## Publish on GitHub Pages
+## Publish on GitHub Pages 
 
 1. Create a **public** repo named `resume` under your account (`dileep892`).
 2. Push this folder to the `main` branch.
